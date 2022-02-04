@@ -27,13 +27,13 @@
         "title":"Personal Portfilo Website",
         "dates":"24 December 2021 - 25 February 2021 ",
         "duties":["Technologies Used: React JS, Bootsrap",
-                "A personal Portfilo website to showcase all my details and project at one place"],
+                "A personal Portfilo website to showcase all my details and project at one place"]
         },
         "Interest":{
         "order": 4,
         "title":"Teaching, Music, Travel",
         "duties":["Apary form being a tech enthusiat and code writer, i also love to teah people what i know simply because i believe in sharing",
-                "Listing to soothng music is something i can never compromise with, skimming through spotify's deep house music, the best strees reliver that i can get my hands on"],
+                "Listing to soothng music is something i can never compromise with, skimming through spotify's deep house music, the best strees reliver that i can get my hands on"]
         }
     }
 
