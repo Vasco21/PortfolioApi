@@ -1,87 +1,44 @@
- {
-
-    "Eduction":{
- 
-       "order":1,
- 
-       "title":"Agile Full stack Web Developer",
- 
-       "dates":"05 February 2021 - January 2022",
- 
-       "duties":[
- 
-          "codeX is a full time, one year coding program in Cape Town that trains and places bright young talent as software developers.",
- 
-          "At codeX you learn practical skills the tech industry demands and we help you find a job at a top local company that suits your interests and ambitions.",
- 
-          "codeX aims to solve two of Africas major challenges: youth unemployment and a critical programming skills gap. We find, train, and place young developer talent in great entry-level jobs and ensure they have the solid foundation they need to build long-term digital careers."
- 
-       ],
- 
-       "company":"Project Codex",
- 
-       "title2":"Node.js Certificate",
- 
-       "dates2":"15 January 2020 - 16 July 2020",
- 
-       "company2":"Deviare learning platform"
- 
-    },
- 
-    "Work History":{
- 
-       "order":2,
- 
-       "title":"Process Seismic Data",
- 
-       "dates":"01 April 2014 - Present",
- 
-       "duties":[
- 
-          "Seismic data from more than 90 mines in 19 countries continuously stream into the IMS offices.",
- 
-          "AA team of 80 data processors process approximately 30 000 seismic events 24 hours a day, 365 days a year.",
- 
-          "conform to the The aim is to have all data processed and back to the mine within one hour of it being recorded. Large events receive the highest priority.ISO 9001 qualitymanagement standards"
- 
-       ],
- 
-       "company":"Institute of Mine Seismology"
- 
-    },
- 
-    "Proggraming Kill":{
- 
-       "order":3,
- 
-       "title":"Personal Portfilo Website",
- 
-       "dates":"24 December 2021 - 25 February 2021 ",
- 
-       "duties":[
- 
-          "Technologies Used: React JS, Bootsrap",
- 
-          "A personal Portfilo website to showcase all my details and project at one place"
- 
-       ]
- 
-    },
- 
-    "Interest":{
- 
-       "order":4,
- 
-       "title":"Teaching, Music, Travel",
- 
-       "duties":[
- 
-          "Apary form being a tech enthusiat and code writer, i also love to teah people what i know simply because i believe in sharing",
- 
-          "Listing to soothng music is something i can never compromise with, skimming through spotify's deep house music, the best strees reliver that i can get my hands on"
- 
-       ]
- 
-    }
- 
- }
+{
+   "Eduction":{
+      "order":1,
+      "title":"Agile Full stack Web Developer",
+      "dates":"05 February 2021 - January 2022",
+      "duties":[
+         "codeX is a full time, one year coding program in Cape Town that trains and places bright young talent as software developers.",
+         "At codeX you learn practical skills the tech industry demands and we help you find a job at a top local company that suits your interests and ambitions.",
+         "codeX aims to solve two of Africas major challenges: youth unemployment and a critical programming skills gap. We find, train, and place young developer talent in great entry-level jobs and ensure they have the solid foundation they need to build long-term digital careers."
+      ],
+      "company":"Project Codex",
+      "title2":"Node.js Certificate",
+      "dates2":"15 January 2020 - 16 July 2020",
+      "company2":"Deviare learning platform"
+   },
+   "Work History":{
+      "order":2,
+      "title":"Process Seismic Data",
+      "dates":"01 April 2014 - Present",
+      "duties":[
+         "Seismic data from more than 90 mines in 19 countries continuously stream into the IMS offices.",
+         "AA team of 80 data processors process approximately 30 000 seismic events 24 hours a day, 365 days a year.",
+         "conform to the The aim is to have all data processed and back to the mine within one hour of it being recorded. Large events receive the highest priority.ISO 9001 qualitymanagement standards"
+      ],
+      "company":"Institute of Mine Seismology"
+   },
+   "Proggraming Kill":{
+      "order":3,
+      "title":"Personal Portfilo Website",
+      "dates":"24 December 2021 - 25 February 2021 ",
+      "duties":[
+         "Technologies Used: React JS, Bootsrap",
+         "A personal Portfilo website to showcase all my details and project at one place"
+      ]
+   },
+   "Interest":{
+      "order":4,
+      "title":"Teaching, Music, Travel",
+      "duties":[
+         "Apary form being a tech enthusiat and code writer, i also love to teah people what i know simply because i believe in sharing",
+         "Listing to soothng music is something i can never compromise with, skimming through spotify's deep house music, the best strees reliver that i can get my hands on"
+      ]
+   }
+}
