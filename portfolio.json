@@ -1,44 +1,39 @@
-{
-   "Eduction":{
-      "order":1,
-      "title":"Agile Full stack Web Developer",
-      "dates":"05 February 2021 - January 2022",
-      "duties":[
-         "codeX is a full time, one year coding program in Cape Town that trains and places bright young talent as software developers.",
-         "At codeX you learn practical skills the tech industry demands and we help you find a job at a top local company that suits your interests and ambitions.",
-         "codeX aims to solve two of Africas major challenges: youth unemployment and a critical programming skills gap. We find, train, and place young developer talent in great entry-level jobs and ensure they have the solid foundation they need to build long-term digital careers."
-      ],
-      "company":"Project Codex",
-      "title2":"Node.js Certificate",
-      "dates2":"15 January 2020 - 16 July 2020",
-      "company2":"Deviare learning platform"
-   },
-   "Work History":{
-      "order":2,
-      "title":"Process Seismic Data",
-      "dates":"01 April 2014 - Present",
-      "duties":[
-         "Seismic data from more than 90 mines in 19 countries continuously stream into the IMS offices.",
-         "AA team of 80 data processors process approximately 30 000 seismic events 24 hours a day, 365 days a year.",
-         "conform to the The aim is to have all data processed and back to the mine within one hour of it being recorded. Large events receive the highest priority.ISO 9001 qualitymanagement standards"
-      ],
-      "company":"Institute of Mine Seismology"
-   },
-   "Proggraming Kill":{
+[
+   {
+      "id":"recAGJfiU4CeaV0HL",
       "order":3,
-      "title":"Personal Portfilo Website",
-      "dates":"24 December 2021 - 25 February 2021 ",
+      "title":"Full Stack Web Developer",
+      "dates":"December 2015 - Present",
       "duties":[
-         "Technologies Used: React JS, Bootsrap",
-         "A personal Portfilo website to showcase all my details and project at one place"
-      ]
+         "Tote bag sartorial mlkshk air plant vinyl banjo lumbersexual poke leggings offal cold-pressed brunch neutra. Hammock photo booth live-edge disrupt.",
+         "Post-ironic selvage chambray sartorial freegan meditation. Chambray chartreuse kombucha meditation, man bun four dollar toast street art cloud bread live-edge heirloom.",
+         "Butcher drinking vinegar franzen authentic messenger bag copper mug food truck taxidermy. Mumblecore lomo echo park readymade iPhone migas single-origin coffee franzen cloud bread tilde vegan flexitarian."
+      ],
+      "company":"TOMMY"
    },
-   "Interest":{
-      "order":4,
-      "title":"Teaching, Music, Travel",
+   {
+      "id":"recIL6mJNfWObonls",
+      "order":2,
+      "title":"Front-End Engineer",
+      "dates":"May 2015 - December 2015",
       "duties":[
-         "Apary form being a tech enthusiat and code writer, i also love to teah people what i know simply because i believe in sharing",
-         "Listing to soothng music is something i can never compromise with, skimming through spotify's deep house music, the best strees reliver that i can get my hands on"
-      ]
+         "Hashtag drinking vinegar scenester mumblecore snackwave four dollar toast, lumbersexual XOXO. Cardigan church-key pabst, biodiesel vexillologist viral squid.",
+         "Franzen af pitchfork, mumblecore try-hard kogi XOXO roof party la croix cardigan neutra retro tattooed copper mug. Meditation lomo biodiesel scenester",
+         "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1",
+         "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1"
+      ],
+      "company":"BIGDROP"
+   },
+   {
+      "id":"rec61x18GVY99hQq5",
+      "order":1,
+      "title":"Engineering Intern",
+      "dates":"May 2014 - September 2015",
+      "duties":[
+         "I'm baby woke mumblecore stumptown enamel pin. Snackwave prism pork belly, blog vape four loko sriracha messenger bag jean shorts DIY bushwick VHS. Banjo post-ironic hella af, palo santo craft beer gluten-free.",
+         "YOLO drinking vinegar chambray pok pok selfies quinoa kinfolk pitchfork street art la croix unicorn DIY. Woke offal jianbing venmo tote bag, palo santo subway tile slow-carb post-ironic pug ugh taxidermy squid.",
+         "Pour-over glossier chambray umami 3 wolf moon. Iceland kale chips asymmetrical craft beer actually forage, biodiesel tattooed fingerstache. Pork belly lomo man braid, portland pitchfork locavore man bun prism."
+      ],
+      "company":"CUKER"
    }
-}
+]
